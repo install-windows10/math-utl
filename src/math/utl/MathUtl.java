@@ -17,6 +17,7 @@ public class MathUtl {
     public static void main(String[] args) {
         for (int i = 0; i < 727; i++) {
             System.out.println("ur mum");
+            System.out.println("haha");
         }
         
     }
