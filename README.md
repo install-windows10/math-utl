@@ -6,9 +6,9 @@
 * All of math methodsd to support for the math calculation in your project,
 e.g. getFactorial(), sin(), cos()
 * (TBA...)
-=======
+
 ## Contact me:
-[Email] (dpo@ea.com)
+[Email](dpo@ea.com)
 [Twitter](https://google.com)
 
 
