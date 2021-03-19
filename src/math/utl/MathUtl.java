@@ -7,7 +7,7 @@ package math.utl;
 
 /**
  *
- * @author nguye
+ * @author kek
  */
 public class MathUtl {
 
